@@ -27,4 +27,3 @@ int main()
         cout << "Grade F";
     }
     return 0;
-}
