@@ -21,7 +21,7 @@ int main()
 
         for (int j = 0; j < 3; j++)
         {
-            cout << "    M" << j + 1 << ": ";
+            cout << "    M" << (j + 1) << ": ";
             cin >> marks[i][j];
         }
 
